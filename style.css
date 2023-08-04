@@ -548,7 +548,7 @@
       rgba(235, 151, 78, 0.35),
       rgba(230, 125, 34, 0.35)
     ),
-    url("./images/35.jpg");
+    url("35.jpg");
   background-size: cover;
   background-position: center;
 }
